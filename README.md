@@ -4,8 +4,10 @@ I build software for the web and mobile.
 
 I care about simple interfaces and useful products.
 
+## Now
+
+Building AI-powered tools, collaborative interfaces, and mobile experiences.
+
 ## Toolbox
 
-<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,svelte,tailwind,nodejs,py&theme=dark" alt="TypeScript, JavaScript, React, Next.js, Svelte, Tailwind CSS, Node.js, and Python" />
-
-<img src="https://skillicons.dev/icons?i=supabase,postgres,docker,electron,vite,vercel,git&theme=dark" alt="Supabase, PostgreSQL, Docker, Electron, Vite, Vercel, and Git" />
+<img src="https://skillicons.dev/icons?i=ts,react,nextjs,svelte,tailwind,nodejs,py,supabase,docker&theme=dark" alt="TypeScript, React, Next.js, Svelte, Tailwind CSS, Node.js, Python, Supabase, and Docker" />
