@@ -42,14 +42,6 @@ AI를 활용한 제품, 실시간 협업 경험, 그리고 손에 잡히는 인�
   </picture>
 </div>
 
-## Contribution trail
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jisuzzzz/jisuzzzz/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jisuzzzz/jisuzzzz/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/jisuzzzz/jisuzzzz/output/github-contribution-grid-snake.svg" />
-</picture>
-
 <div align="center">
   <sub>Always building. Occasionally debugging the debugger.</sub>
 </div>
