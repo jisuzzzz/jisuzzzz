@@ -6,8 +6,6 @@ I care about simple interfaces and useful products.
 
 ## Toolbox
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,js,react,nextjs,svelte,tailwind,nodejs,py,supabase,postgres,docker,electron,vite,vercel,git&theme=dark&perline=15" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ts,js,react,nextjs,svelte,tailwind,nodejs,py,supabase,postgres,docker,electron,vite,vercel,git&theme=light&perline=15" />
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,svelte,tailwind,nodejs,py,supabase,postgres,docker,electron,vite,vercel,git&theme=dark&perline=15" alt="Technology icons" />
-</picture>
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,svelte,tailwind,nodejs,py&theme=dark" alt="TypeScript, JavaScript, React, Next.js, Svelte, Tailwind CSS, Node.js, and Python" />
+
+<img src="https://skillicons.dev/icons?i=supabase,postgres,docker,electron,vite,vercel,git&theme=dark" alt="Supabase, PostgreSQL, Docker, Electron, Vite, Vercel, and Git" />
